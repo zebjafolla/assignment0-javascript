@@ -1,6 +1,6 @@
 function hello() {
 	// TODO: change this string so that your program prints "Hello world!" 
-	return "Hello orld!";
+	return "Hello world!";
 }
  
 module.exports = hello;
